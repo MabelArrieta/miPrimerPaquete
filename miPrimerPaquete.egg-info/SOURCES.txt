@@ -1,0 +1,7 @@
+README.md
+setup.py
+miPrimerPaquete/__init__.py
+miPrimerPaquete.egg-info/PKG-INFO
+miPrimerPaquete.egg-info/SOURCES.txt
+miPrimerPaquete.egg-info/dependency_links.txt
+miPrimerPaquete.egg-info/top_level.txt
